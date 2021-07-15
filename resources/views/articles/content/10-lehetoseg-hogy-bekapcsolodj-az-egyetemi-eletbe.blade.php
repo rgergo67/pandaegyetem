@@ -1,0 +1,48 @@
+<p>Egyetemi éveid legalább annyira szólnak a tanulásról, mint a <strong>kapcsolatépítés</strong>ről. Előfordulhat, hogy egy itt szerzett ismerősöd ajánl majd be álmaid állására, így érdemes minden lehetőséget megragadni az ismerkedésre.</p>
+<p><em>A lenti 10 ponthoz veszprémi példákat írtunk, azonban biztosra vesszük, hogy más városokban is van lehetőség hasonló programokban való részvételre. Ha tudsz ilyenről, segíts másoknak azzal, hogy megírod ezeket hozzászólásban! Köszi!</em></p>
+<h3>1. Csatlakozz egy klubhoz, vagy indíts egyet</h3>
+<p>A legtöbb egyetem és kollégium rendelkezik hallgatók által működtetett klubokkal. Ezek legtöbbször érdeklődés <em>(anime, társasjáték)</em> vagy aktivitás alapján <em>(futókör, falmászó klub)</em> gyűjtik össze tagjaikat. Veszprémben nagyon népszerű a Topogó Tappancsok nevű állatbarát kollégiumi csoport, amelynek tagjai a menhelyi kutyusoknak szentelik szabadidejüket, és önkéntesen járnak ki heti több alkalommal sétáltatni és gondozni őket.</p>
+<p>Egy ilyen klub volt az általunk szervezet veszprémi PandAnime klub:</p>
+<p><img loading="lazy" class="alignright size-medium wp-image-269" src="{{ asset('images/cikkek/veszpremi-anime-klub-768x284.jpg') }}" alt="veszpremi-anime-klub" width="768" height="284"></p>
+<p>Ha nem találsz egyet sem ami tetszik, és úgy érzed a hobbid több embert is érdekelhet, indítsd el saját klubodat!</p>
+<h3>2. Jelentkezz egy hallgatói szervezethez</h3>
+<p>Veszprémben két fő irányba indulhatsz, ha hallgatói szervezethez szeretnél csatlakozni.</p>
+<p>Az egyik a <strong>Hallgatói Önkormányzat</strong>, ahol szakképviselőként segíthetsz eligazodni szaktársaidnak a tanulmányi kérdések kusza rengetegében.</p>
+<p>A másik <em>(amiben mi is részt vettünk)</em>, a kollégiumi <strong>Szenior</strong> vagy <strong>KIB</strong> tagság, ahol kollégisták százainak szervezhetsz programot, és lehetsz az az ember, akire minden nap felnéznek. Olyan vezetői és szervezői tapasztalatokra tehetsz így szert, mely rendkÍvül jól mutat majd önéletrajzodban, ráadásul életed hátralévő részében is hasznát fogod venni ezeknek a képességeknek.</p>
+<p><img loading="lazy" class="alignright size-medium wp-image-268" src="{{ asset('images/cikkek/tegyel-a-kollegiumert-768x307.png') }}" alt="Tegyél a kollégiumért" width="768" height="307"></p>
+<p>Ha kollégiumodban nem működik Szenior vagy KIB rendszer, nagy segítségedre lehet a <x-a href="http://fekosz.hu" target="_blank">FEKOSZ</x-a> vagy a <x-a href="http://kollektiva.eu" target="_blank">Kollektíva</x-a> a rendszer kiépítésében.</p>
+<h3>3. Legyél tagja egy egyetemi újságnak</h3>
+<p>Amit biztosan meg fogsz tanulni az egyetemen, az az írás. Esszék, beadandók és jegyzőkönyvek tömkelege vár majd rád, ami kínszenvedés lesz, ha a szavak nem dőlnek belőled. Azonban ez is egy olyan dolog ami gyakorlással fejleszthető. Három ötletünk van, ahol szívesen várják az írni vágyókat:</p>
+<ol>
+    <li>Az <x-a href="http://egyetemunk.com/" target="_blank">egyetemi újság</x-a>, ahol internetes és nyomtatott sajtóban is megjelenhet írásod</li>
+    <li>A kollégiumi <x-a href="https://kozpontikoli.hu/ontevekeny-csoportok/" target="_blank">Krónikás</x-a> kör, ahol különféle médiumokban rögzítheted az év eseményeit a utókor számára</li>
+    <li>Blogolj, vagy csinálj youtube videókat, és mutasd be másoknak, hogy te hogy éled meg a kolit!</li>
+</ol>
+<p>Írók mellett fotósokat is szívesen látnak mindenhol, így azzal is tehetsz egy próbát. Ha szerepet vállalsz valamelyikben, nyugodtan írd bele önéletrajzodba.</p>
+<h3>4. Korrepetálj</h3>
+<p>Van, aki már az első néhány hónap után érzi, hogy az analízis vagy a lineáris algebra bizony neki való. Ehhez is kell egyfajta érzék, mint a nyelvtanuláshoz, így sokan küszködni fognak vele. Ha találsz egy tárgyat amiből jó vagy, és látod, hogy mások szenvednek vele, ajánld fel a segítséged!</p>
+<p><img loading="lazy" class="size-medium wp-image-254" src="{{ asset('images/cikkek/egyedul-tanulas.jpg') }}" alt="Egyedül tanulás" width="700" height="440"></p>
+<p>Egyrészt <strong>kiváló alkalom az ismerkedésre</strong> <em>(sok lány igényel korrepetálást valszámból, vagy programozás alapjaiból)</em>, másrészt kellő tapasztalattal csoportokat is korrepetálhatsz. Amint megfelelő tapasztalatra tettél szert, akár <strong>pénzt is kérhetsz</strong> érte, bár egyetemen elsősorban a tiszteletért, és magáért a segítség nyújtásért szokták csinálni.</p>
+<p class="alert alert-info">Ne feledd: a hála tovább tart, mint egy tálca sör.</p>
+<h3>5. Űzz egy sportot</h3>
+<p>Nem kell országos szintű atlétának lenni ahhoz, hogy egy egyetemi vagy városi csapat tagja legyél, mindössze szeretni kell az adott sportot. A két legegyszerűbb módja a sportolásnak a kollégiumokban és egyetemen lévő kondi terem, illetve a <x-a href="http://sport.uni-pannon.hu/" target="_blank">Testnevelés és Sport</x-a> intézet a C épület bejárata mellett.</p>
+<p><img loading="lazy" class="size-medium wp-image-267" src="{{ asset('images/cikkek/egyetem-sport-768x347.jpg') }}" alt="Egyetem sport" width="768" height="347"></p>
+<p>Ha csak sétálgatni szeretsz <x-a href="https://ingress.com/" target="_blank">próbáld ki az Ingress</x-a>-t, vagy a <x-a href="https://pokemongolive.com/en/" target="_blank">Pokemon Go</x-a>-t!</p>
+<h3>6. Legyél kollégista!</h3>
+<p>Persze ez sokszor nem opció, de ha van lehetőséged választani albérlet és kollégium között, mindenképpen az utóbbi mellett dönts. Felejthetetlen élmények, országos barátságok, eszméletlen jó programok várnak rád, és garantáltan lesz még egy hely, amit majd otthonodnak nevezel.</p>
+<p>A kollégium olyan lehetőségeket, képzéseket kínál számodra, melyeket egyébként csak nehezen, vagy kemény forintok árán tudnál igénybe venni. Ráadásul az itt szerzett kapcsolatok sokkal tartósabbak és gyümölcsözőbbek lesznek, mint amit egy 3-5 fős albérletben tudnál kiépíteni.</p>
+<h3>7. Jótékony szervezet és önkéntesség</h3>
+<figure id="attachment_266" aria-describedby="caption-attachment-266" class="wp-caption alignright"><img loading="lazy" class="size-medium wp-image-266" src="{{ asset('images/cikkek/topogo-tappancsok-768x240.jpg') }}" alt="Topogó tappancsok állatvédő" width="768" height="240"><figcaption id="caption-attachment-266" class="wp-caption-text">Topogó Tappancsok csapata</figcaption></figure>
+<p>A jótékony csoportok még nem igazán terjedtek el egyetemi szinten, de azért van rá 1-2 lehetőség. Ilyen öntevékenyen működő jótékony csoport veszprémben a Topogó Tappancsok, akik az Állatvédő Egyesület Veszprém kutyusaihoz járnak ki rendszeresen. Mi is ide adományoztunk már több alkalommal. Vannak olyan kollégiumi rendezvények, mint a Piknik vásár vagy a Garázs vásár, ahol a bevételt teljes egészében a veszprémi Gyermekkórház kapja meg.</p>
+<p>Ha városod nem bővelkedik önkéntes és jótékony csoportokban, itt a lehetőség számodra, hogy kitűnj a tömegből. Ha egy ügy fontos neked, és segíteni szeretnél másokon, cselekedj! Mi például gondoltunk egyet, és szerveztünk egy gyűjtést a veszprémi Mentőállomás részére, mert szerintünk megérdemlik a segítséget.</p>
+<h3>8. Vegyél részt a rendezvényeken</h3>
+<p>Gólyatábor, Kopogtató tábor, szakest, gólyabál, <x-a href="https://kozpontikoli.hu/ii-lepo-bal/" target="_blank">Lépő bál</x-a>, hogy csak néhányat soroljunk fel a rengeteg veszprémi rendezvényből, amin érdemes részt venni. Ezek általában belépőhöz vagy más részvételi díjhoz kötöttek, de az év során lesz rengeteg ingyenes is: Koli7, Halloween, kollégiumi szintbuli, koli karácsony.</p>
+<figure id="attachment_265" aria-describedby="caption-attachment-265" class="wp-caption alignright"><img loading="lazy" class="size-medium wp-image-265" src="{{ asset('images/cikkek/halloween-egyetem-kollegium-768x512.jpg') }}" alt="Helloween egyetem kollégium" width="768" height="512"><figcaption id="caption-attachment-265" class="wp-caption-text">Mi például szobát festettünk, dekoráltunk, beöltöztünk és buliztunk a kollégiumban halloweenkor.</figcaption></figure>
+<p>Ami a legjobb, hogy ha eszedbe jut bármilyen ötlet, bátran megkeresheted kollégiumi Szeniorod, aki felméri a lehetőségeket és amennyiben van rá mód, segít megszervezni a programod.</p>
+<h3>9. Dolgozz az egyetemen</h3>
+<p>Szinte minden kar kínál olyan lehetőséget, amivel az egyetemen tanított elmélet mellé, gyakorlatot is szerezhetsz magadnak. <strong>Nem tudjuk kellőképpen hangsúlyozni, hogy ez mennyire fontos! </strong>Az elméleti oktatás és az alapok megtanulása elengedhetetlen, de amíg nem látod a gyakorlatban az értelmét annak amit tanulsz, kínszenvedés lesz az egész.</p>
+<p>Egy vegyészmérnök ismerősünket kérdeztünk meg a dologról, aki következőket javasolta:</p>
+<p><em>“Dolgozni igazán a kutatócsoportban tanultam meg, ahol tényleg mindent belémvertek, minden jellegű pontosságot, technikát, módszert… Az egyetemi képzés annyira felületes, hogy csak arra jó, hogy elmondhasd, hogy találkoztál vele, de ha tapasztalatot akarsz, meg tényleg tanulni, akkor azt érdemes 1-2.évesen elkezdeni egy kutatócsoportban, legyen szó bármilyen szakról. Tényleg ott tanulja meg az ember a gyakorlati dolgokat, sőt néha még az elméletit is. Én totál nem bántam meg azt a belefektetett energiát.”</em></p>
+<h3>10. Erasmus</h3>
+<p><img loading="lazy" class="alignright size-medium wp-image-252" src="{{ asset('images/cikkek/boldog-emberek-ugralnak-768x310.jpg') }}" alt="Boldog emberek ugrálnak" width="768" height="310"></p>
+<p>A Pannon Egyetem minden hallgatónak lehetőséget ad arra, hogy tanulmányai során három hónaptól akár egy teljes évig külföldön tanuljon. Egyik munkatársunk részt vett az Erasmus programban, majd az azt követő évben kb 3 havonta járt ki az ott szerzett ismerőseihez, ahol boldogan élvezte vendégszeretetüket.</p>
