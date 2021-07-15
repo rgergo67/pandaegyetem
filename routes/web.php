@@ -1,8 +1,8 @@
 <?php
 
-use App\Models\Article;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\ArticleController;
+use App\Http\Controllers\CategoryController;
 use App\Http\Controllers\PaymentController;
 
 Route::group(['middleware' => ['page-cache']], function () {
@@ -14,15 +14,9 @@ Route::group(['middleware' => ['page-cache']], function () {
     Route::view('jobb-jegyek-10-lepesben-hackeld-meg-az-agyad', 'jobb-jegyek')->name('jobb-jegyek');
 
     // Categories
-    Route::view('kategoria/tanulas', 'categories.tanulas', [
-        'articles' => Article::where('category', 'tanulas')->orderBy('id', 'desc')->get()
-    ])->name('categories.tanulas');
-    Route::view('kategoria/penz', 'categories.penz', [
-        'articles' => Article::where('category', 'penz')->orderBy('id', 'desc')->get()
-    ])->name('categories.penz');
-    Route::view('kategoria/kollegium', 'categories.kollegium', [
-        'articles' => Article::where('category', 'kollegium')->orderBy('id', 'desc')->get()
-    ])->name('categories.kollegium');
+    Route::get('kategoria/tanulas', [CategoryController::class, 'tanulas'])->name('categories.tanulas');
+    Route::get('kategoria/penz', [CategoryController::class, 'penz'])->name('categories.penz');
+    Route::get('kategoria/kollegium', [CategoryController::class, 'kollegium'])->name('categories.kollegium');
 
     Route::get('cikkek/{slug}', [ArticleController::class, 'publicShow'])->name('articles.public_show');
 });
