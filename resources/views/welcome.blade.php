@@ -18,12 +18,12 @@
                                     </p>
                                     <div class="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
                                         <div class="rounded-md shadow">
-                                            <a href="{{ route('jobb-jegyek') }}" class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-yellow-600 hover:bg-yellow-700 md:py-4 md:text-lg md:px-10">
+                                            <a href="{{ route('jobb-jegyek') }}" class="w-full flex items-center justify-center px-8 py-3 border border-transparent bg-green-700 hover:bg-green-800 text-base font-medium rounded-md text-white md:py-4 md:text-lg md:px-10">
                                                 Olvasd el könyvünket
                                             </a>
                                         </div>
                                         <div class="mt-3 sm:mt-0 sm:ml-3">
-                                            <a href="" class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-yellow-700 bg-yellow-100 hover:bg-yellow-200 md:py-4 md:text-lg md:px-10">
+                                            <a href="" class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-yellow-700 bg-yellow-100 hover:bg-yellow-50 hover:border-yellow-700 md:py-4 md:text-lg md:px-10">
                                                 Népszerű cikkeink
                                             </a>
                                         </div>
@@ -32,7 +32,7 @@
                             </div>
                         </div>
                         <div class="lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2">
-                            <img src="{{ asset('images/egyetem.svg') }}" class="mx-auto" alt="Élet az egyetemen és a kollégiumban"  />
+                            <img src="{{ asset('images/egyetem.svg') }}" class="mx-auto" alt="Élet az egyetemen és a kollégiumban" width="640" height="361" />
                         </div>
                     </div>
                 </div>
@@ -88,7 +88,7 @@
                                     <p>Készítettünk továbbá egy alkalmazást, amivel egyszerűen oszthatod be a meglevő pénzed:</p>
 
                                 </div>
-                                <a href="https://beosztom.hu/tanuld-meg-beosztani-a-penzed-diakkent" class="btn bg-green-600 mt-8 text-xl">Beosztom.hu</a>
+                                <a href="https://beosztom.hu/tanuld-meg-beosztani-a-penzed-diakkent" class="btn bg-green-700 mt-8 text-xl">Beosztom.hu</a>
                             </div>
                         </div>
                         <div class="flex flex-1">
@@ -194,7 +194,7 @@
                                         <p class="ml-16 text-lg leading-6 font-medium text-gray-900">1.990 Ft nem sok?</p>
                                     </dt>
                                     <dd class="mt-2 ml-16 text-base text-gray-500">
-                                        Ha nem engedheted meg magadnak, tegyél egy próbát a <x-a href="https://beosztom.hu" target="_blank">beosztom.hu</x-a> alkalmazásunkkal, amit fél évig ingyen tudsz használni, hátha segít megspórolni a könyv árát.
+                                        Ha nem engedheted meg magadnak, tegyél egy próbát a <x-a href="https://beosztom.hu" target="_blank" rel="noopener">beosztom.hu</x-a> alkalmazásunkkal, amit fél évig ingyen tudsz használni, hátha segít megspórolni a könyv árát.
                                     </dd>
                                 </div>
                             </dl>
@@ -266,7 +266,7 @@
                         </div>
 
                         <div class="text-center mt-10">
-                            <div class="text-gray-800 text-lg">Ha a spórolás érdekel, <x-a target="_blank" href="https://beosztom.hu" class="group">nézd meg beosztom.hu oldalunkat<svg width="1em" height="1em" viewBox="0 0 18 18" class="inline-block ml-1 -mt-0.5 transition-transform transform group-hover:translate-x-1" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                            <div class="text-gray-800 text-lg">Ha a spórolás érdekel, <x-a target="_blank" href="https://beosztom.hu" class="group" rel="noopener">nézd meg beosztom.hu oldalunkat<svg width="1em" height="1em" viewBox="0 0 18 18" class="inline-block ml-1 -mt-0.5 transition-transform transform group-hover:translate-x-1" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
                                         <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8z"></path>
                                     </svg></x-a></div>
                         </div>

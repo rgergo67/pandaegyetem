@@ -6,27 +6,27 @@
             </div>
 
             <div class="xl:w-1/4 lg:w-1/2 w-full xl:mb-0 mb-4">
-                <h4 class="text-xl text-gray-800 font-modlr tracking-wide font-semibold leading-tight mb-3">Információk</h4>
+                <div class="text-xl text-gray-800 font-modlr tracking-wide font-semibold leading-tight mb-3">Információk</div>
                 <ul>
-                    <li><a class="hover:text-primary py-1 block" href="{{ route('aszf') }}">ÁSZF</a></li>
-                    <li><a class="hover:text-primary py-1 block" href="{{ route('credit') }}">Források</a></li>
+                    <li><a class="hover:text-primary py-2 block" href="{{ route('aszf') }}">ÁSZF</a></li>
+                    <li><a class="hover:text-primary py-2 block" href="{{ route('credit') }}">Források</a></li>
                 </ul>
             </div>
 
             <div class="xl:w-1/4 lg:w-1/2 w-full xl:mb-0 mb-4">
-                <h4 class="text-xl text-gray-800 font-modlr tracking-wide font-semibold leading-tight mb-3">Navigáció</h4>
+                <div class="text-xl text-gray-800 font-modlr tracking-wide font-semibold leading-tight mb-3">Navigáció</div>
                 <ul>
-                    <li><a href="{{ route('categories.tanulas') }}" class="hover:text-primary py-1 block">Tanulás</a></li>
-                    <li><a href="{{ route('categories.penz') }}" class="hover:text-primary py-1 block">Pénz</a></li>
-                    <li><a href="{{ route('categories.kollegium') }}" class="hover:text-primary py-1 block">Kollégium</a></li>
-                    <li><a href="https://beosztom.hu" class="hover:text-primary py-1 block">Spórolás: Beosztom.hu</a></li>
+                    <li><a href="{{ route('categories.tanulas') }}" class="hover:text-primary py-2 block">Tanulás</a></li>
+                    <li><a href="{{ route('categories.penz') }}" class="hover:text-primary py-2 block">Pénz</a></li>
+                    <li><a href="{{ route('categories.kollegium') }}" class="hover:text-primary py-2 block">Kollégium</a></li>
+                    <li><a href="https://beosztom.hu" class="hover:text-primary py-2 block">Spórolás: Beosztom.hu</a></li>
                 </ul>
             </div>
 
             <div class="xl:w-1/4 lg:w-1/2 w-full  xl:mb-0 mb-4">
-                <h4 class="text-xl text-gray-800 font-modlr tracking-wide font-semibold leading-tight mb-3">Fizetés</h4>
+                <div class="text-xl text-gray-800 font-modlr tracking-wide font-semibold leading-tight mb-3">Fizetés</div>
                 <img class="block mx-auto w-max w-100" alt="Barion fizetés" src="{{ asset('images/barion.png') }}" loading="lazy" width="400" height="42">
-                <a class="hover:text-primary py-1 block" href="/barion">Mi az a Barion?</a>
+                <a class="hover:text-primary py-2 block" href="/barion">Mi az a Barion?</a>
             </div>
         </div>
     </div>
