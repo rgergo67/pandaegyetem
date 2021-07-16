@@ -34,7 +34,7 @@
     <link rel="stylesheet" href="{{ mix('css/app.css') }}">
     @stack('template_linked_css')
 
-    @env('prod')
+    @env('production')
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-47815340-7"></script>
     <script>
