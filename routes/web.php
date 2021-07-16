@@ -4,6 +4,7 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\ArticleController;
 use App\Http\Controllers\CategoryController;
 use App\Http\Controllers\PaymentController;
+use App\Http\Controllers\Auth\AuthenticatedSessionController;
 
 Route::group(['middleware' => ['page-cache']], function () {
     Route::view('/', 'welcome')->name('home');
@@ -22,9 +23,20 @@ Route::group(['middleware' => ['page-cache']], function () {
 });
 
 Route::resource('articles', ArticleController::class);
-Route::view('test', 'articles.test')->name('articles.test');
 
 Route::get('payment', [PaymentController::class, 'index'])->name('payment.index');
 Route::get('payment/thankyou', [PaymentController::class, 'thankyou'])->name('payment.thankyou');
 Route::post('payment/callback', [PaymentController::class, 'callback'])->name('payment.callback');
 Route::post('payment/store', [PaymentController::class, 'store'])->name('payment.store');
+
+
+Route::get('/adnap', [AuthenticatedSessionController::class, 'create'])
+    ->middleware('guest')
+    ->name('login');
+
+Route::post('/adnap', [AuthenticatedSessionController::class, 'store'])
+    ->middleware('guest');
+
+Route::post('/logout', [AuthenticatedSessionController::class, 'destroy'])
+    ->middleware('auth')
+    ->name('logout');

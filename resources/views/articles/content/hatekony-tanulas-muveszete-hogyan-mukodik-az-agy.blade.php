@@ -9,9 +9,9 @@
 <h2>Hogyan működik az agy?</h2>
 <p>Ha tudod, hogy egy definíció megtanulása rendkívül fontos, vajon miért nem elég csupán egyszer elolvasni? Mitől függ, hogy egy új információ megragad-e az elmédben, vagy másnapra köddé foszlik?</p>
 <p>Az agyad nem úgy működik, mint egy számítógép memóriája, és ennek elsődleges oka, hogy felfoghatatlan mennyiségű adatot dolgoz fel. Emiatt az evolúció szabályokat épített bele, melyek meghatározzák, mely adatokat tudja rögzíteni.</p>
-<h3>Adatok befogadása</h3>
+<h3>Miért nem fog az agyam: adatok befogadása</h3>
 <p>Az agyad alapból rengeteg információt kizár. Például amikor felhúzod a zoknit, néhány másodpercig érzed, hogy a lábadon van, azonban később ennek konkrétan nem leszel már tudatában, mivel agyad blokkolja ezt az érzést. Ha koncentrálni kezdesz, újra érzed, hogy rajtad van a zokni.</p>
-<p>Ugyanez a helyzet az olvasással is. Előfordult már veled, hogy elolvastál fél oldalt anélkül, hogy a leghalványabb fogalmad lett volna, miről is szólt? Az agyad ugyanazt csinálja, mint a zokninál: mivel nem érdekel a téma, felesleges információnak véli, és nem rögzít belőle semmit. <strong>Itt az ideje meghackelni!</strong></p>
+<p>Ugyanez a helyzet az olvasással is. Előfordult már veled, hogy elolvastál fél oldalt anélkül, hogy a leghalványabb fogalmad lett volna, miről is szólt? Az agyad ugyanazt csinálja, mint a zokninál: mivel nem érdekel a téma, felesleges információnak véli, és nem rögzít belőle semmit. Te ebből annyit veszel észre, hogy "nem fog az agyam". <strong>Itt az ideje meghackelni!</strong></p>
 <ol>
     <li><strong>Összpontosíts</strong>: Az agyad 25 percnél tovább nem tud hatékonyan figyelni egy megadott dologra, ezért tarts utána 5 perc szünetet. Feküdj le az ágyra, hunyd be a szemed, és lazulj el. Ez segíteni fog újabb 25 percig összpontosítnai.</li>
     <li><strong>Adj célt az olvasásnak</strong>: Ha túl monoton az olvasás, ragadj meg egy kiemelőt, és húzd ki egyből a lényeget. Az is jó megoldás, ha külön papírra írod ki a fontos dolgokat, vagy ha egyből memória kártyákat gyártasz, amiből később tanulhatsz. A lényeg, hogy ne azért olvass, hogy el legyen olvasva, hanem azért, hogy kigyűjtsd a lényeges információt.</li>
@@ -29,3 +29,6 @@
 <p><strong>Fontos! </strong>Attól, hogy egy információ bekerült a hosszútávú memóriádba, még nem marad ott örökké. Új emlékek és élmények felülírják idővel a régieket, hacsak nem eleveníted fel őket rendszeresen.</p>
 <p>A folytatásban <x-a href="{{ route('articles.public_show', 'hatekony-tanulas-muveszete-tanulasi-technikak') }}">bemutatok 5 technikát</x-a>
     , amivel fokozható a hatékony tanulás, majd megmutatom <x-a href="{{ route('articles.public_show', 'hatekony-tanulas-muveszete-hogyan-tanulj-matekot') }}">hogyan lehet kifejezetten matekra készülni</x-a>.</p>
+
+<p>Ha szívesen olvasnál még többet ilyen dolgokról, vess egy pillantást a könyvünkre:<br>
+    <a href="{{ route('jobb-jegyek') }}"><img loading="lazy" class="alignnone size-medium wp-image-162" src="{{ asset('images/cikkek/jobb-jegyek-10-lepesben-fb-preview-image-768x403.jpg') }}" alt="" width="768" height="403"></a></p>

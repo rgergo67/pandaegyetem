@@ -1,8 +1,8 @@
 <x-public-layout>
-        <div class="min-h-screen bg-white">
-            <x-public-navigation />
+    <div class="min-h-screen bg-white">
+        <x-public-navigation />
 
-            <main class="pt-8">
+        <main class="pt-8">
             <div class="prose lg:prose-lg xl:prose-xl bg-white p-6 rounded-md mx-auto">
                 <h1>Jobb jegyek 10 lépésben: Hackeld meg az agyad!</h1>
 
