@@ -34,17 +34,7 @@
     <link rel="stylesheet" href="{{ mix('css/app.css') }}">
     @stack('template_linked_css')
 
-    @env('production')
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-47815340-7"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-
-        gtag('config', 'UA-47815340-7');
-    </script>
-    @endenv
+    <x-google-analytics />
 </head>
 <body class="font-sans antialiased text-gray-900">
 

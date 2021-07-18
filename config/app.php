@@ -123,6 +123,8 @@ return [
 
     'cipher' => 'AES-256-CBC',
 
+    'google-analytics-id' => env('GOOGLE_ANALYTICS_ID'),
+
     /*
     |--------------------------------------------------------------------------
     | Autoloaded Service Providers
