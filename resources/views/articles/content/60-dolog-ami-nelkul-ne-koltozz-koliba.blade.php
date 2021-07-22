@@ -1,5 +1,5 @@
 <p>Kollégista lettél? Elsők közt szeretnénk gratulálni életed legjobb időszakának kezdetéhez! Hogy ne fejtöréssel kezdődjön a beköltözés, elkészítettünk neked egy listát, amin szerepel az a 60+ dolog, ami nélkül ne költözz be koliba!</p>
-<p><strong>Figyelem! </strong>Ez egy elég részletes lista, tele olyan dolgokkal, amiknak nagy rész felesleges lehet! Ha csak a legszükségesebb dolgokat szeretnéd hozni, <x-a href="{{ route('articles.public_show', 'kollegiumi-bekoltozes-mit-ne-felejts-otthon') }}">itt összegyűjöttük neked őket</x-a>.</p>
+<p><strong>Figyelem! </strong>Ez egy elég részletes lista, tele olyan dolgokkal, amiknek nagy része felesleges lehet! Ha csak a legszükségesebb dolgokat szeretnéd hozni, <x-a href="{{ route('articles.public_show', 'kollegiumi-bekoltozes-mit-ne-felejts-otthon') }}">itt összegyűjöttük neked őket</x-a>.</p>
 
 <h2>Cuccok tanuláshoz</h2>
 <p>Elvileg azért jöttél egyetemre, hogy penge éles elmét csiszolj magadnak. Ezt viszont segédeszközök nélkül eléreni problémás lesz.</p>

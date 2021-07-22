@@ -23,7 +23,7 @@
                                             </a>
                                         </div>
                                         <div class="mt-3 sm:mt-0 sm:ml-3">
-                                            <a href="" class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-yellow-700 bg-yellow-100 hover:bg-yellow-50 hover:border-yellow-700 md:py-4 md:text-lg md:px-10">
+                                            <a href="/#cikkek" class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-yellow-700 bg-yellow-100 hover:bg-yellow-50 hover:border-yellow-700 md:py-4 md:text-lg md:px-10">
                                                 Népszerű cikkeink
                                             </a>
                                         </div>
@@ -227,7 +227,7 @@
                 <section class="py-12 bg-gray-100">
                     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                         <div class="lg:text-center">
-                            <h2 id="ar" class="text-base text-yellow-600 font-semibold tracking-wide uppercase">Cikkek</h2>
+                            <h2 id="cikkek" class="text-base text-yellow-600 font-semibold tracking-wide uppercase">Cikkek</h2>
                             <p class="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">
                                 Ha van időd, ezeket érdemes elolvasni
                             </p>
