@@ -1,4 +1,6 @@
 <x-prose-layout>
+    <x-seo title="ÁSZF" />
+
     <h1>ÁSZF</h1>
     <h2>I. A Szolgáltató</h2>
     <p>Weboldal: www.pandaegyetem.hu (a továbbiakban: „honlap”)</p>

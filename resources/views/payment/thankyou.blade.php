@@ -1,4 +1,6 @@
 <x-prose-layout>
+    <x-seo title="Sikeres fizetés" />
+
     <h3>Köszönjük!</h3>
 
     <p>A fizetés sikeres volt, automatikus e-mailben nemsokára elküldjük a könyvet. Ha nem találod, nézd meg a spam között, ha ott sincs, a {{ config('mail.from.address') }} címen tudod ezt jelezni, és megpróbáljuk másik címről is elküldeni.</p>

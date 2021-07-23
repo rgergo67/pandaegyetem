@@ -1,5 +1,5 @@
 <x-sidebar-layout>
-    <x-seo :title="$article->title"
+    <x-seo title="{{ $article->title }}"
            :description="strip_tags($article->description)" />
 
     <article class="mb-4 bg-white shadow-md overflow-hidden sm:rounded-lg">

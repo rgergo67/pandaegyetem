@@ -1,4 +1,6 @@
 <x-prose-layout>
+    <x-seo title="Barion ismertető" />
+
     <p><img class="img-responsive" src="{{ asset('images/barion.png') }}"></p>
     <h3>MIT JELENT A BARION™?</h3>
     <p>A Barion elektronikus fizetéseket lebonyolító szolgáltatás, amivel <b>kényelmesen és biztonságosan tudsz bankkártyával, vagy előre feltöltött egyenleggel fizetni online áruházunkban.</b></p>

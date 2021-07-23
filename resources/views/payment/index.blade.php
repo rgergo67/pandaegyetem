@@ -1,4 +1,5 @@
 <x-prose-layout>
+    <x-seo title="Megrendelés" />
 
     <x-validation-errors class="mb-4" />
     <form method="POST" action="{{ route('payment.store') }}">

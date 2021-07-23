@@ -1,4 +1,7 @@
 <x-public-layout>
+    <x-seo title="Jobb jegyek 10 lépésben: hackeld meg az agyad!"
+        description="Ha nem érzed magadban az erőt a tanuláshoz, vagy jobb jegyeket szeretnél szerezni, ez a könyv hasznos lehet számodra." />
+
     <div class="min-h-screen bg-white">
         <x-public-navigation />
 

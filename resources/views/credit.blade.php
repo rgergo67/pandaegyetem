@@ -1,4 +1,6 @@
 <x-prose-layout>
+    <x-seo title="Források" />
+
     <p>Itt szeretnénk megjelölni forrásainkat, és köszönetet mondani nekik:</p>
 
     <h3>Grafikai anyagok, programozás:</h3>

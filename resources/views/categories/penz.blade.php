@@ -1,4 +1,7 @@
 <x-sidebar-layout>
+    <x-seo title="Tanulj meg bánni a pénzzel diákként"
+           description="Már azelőtt érdemes megismerned a pénzügyi alapokat, megtanulnod hatékonyan beosztani a pénzed, hogy saját magadat kellene eltartanod." />
+
     <img src="/images/cikkek/category-penzugyek.jpg" alt="Tanulj meg bánni a pénzzel diákként" class="w-full" />
     <h1 class="text-4xl border-b-4 p-4 my-4 w-full border-gray-600">Tanulj meg bánni a pénzzel diákként</h1>
     <div class="text-left space-y-2 mb-8">

@@ -1,7 +1,9 @@
 <x-sidebar-layout>
+    <x-seo title="Élet az egyetemen és a kollégiumban"
+           description="Ha tudni szeretnéd, hogy milyen az élet az egyetemen és egy kollégiumban, jó helyen jársz." />
     <img src="/images/cikkek/category-kollegium.jpg" alt="Élet az egyetemen és a kollégiumban" class="w-full" />
     <h1 class="text-4xl border-b-4 p-4 my-4 w-full border-gray-600">Élet az egyetemen és a kollégiumban</h1>
-    <p class="mb-8">Gyötör a <strong>honvágy</strong>, de le szeretnéd gyűrni? Ki akarod&nbsp;használni a kollégiumban rejlő <strong>kapcsolatépítés</strong>i lehetőségeket? Ki szeretnél tűnni a tömegből, hogy <strong>siker</strong>es lehess?</p>
+    <p class="mb-8">Gyötör a <strong>honvágy</strong>, de le szeretnéd gyűrni? Ki akarod használni a kollégiumban rejlő <strong>kapcsolatépítés</strong>i lehetőségeket? Ki szeretnél tűnni a tömegből, hogy <strong>siker</strong>es lehess?</p>
 
     @foreach ($articles as $article)
         <article class="mb-16 bg-white shadow-md overflow-hidden sm:rounded-lg">

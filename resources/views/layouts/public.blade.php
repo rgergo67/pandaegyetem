@@ -13,7 +13,7 @@
     <meta property="og:type" content="article">
 
     @sectionMissing('seo')
-        <x-seo title="Panda Egyetem - Maxold ki az egyetemet!"
+        <x-seo title="Maxold ki az egyetemet!"
                description="Tanulj hatékonyabban, szerezd meg az álom melót, fizesd vissza a diákhitelt! Segítünk mindhárom cél elérésében." />
     @endif
 
