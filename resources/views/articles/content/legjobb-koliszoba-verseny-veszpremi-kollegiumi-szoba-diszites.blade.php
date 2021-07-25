@@ -80,7 +80,7 @@
 <p>És ez még csak a kezdet! További példákat találsz <x-a href="https://hu.pinterest.com/pandaegyetem/koll%C3%A9gium-szoba/" target="_blank">Pinterest oldalunkon</x-a>!</p>
 <h3>Legjobb koliszoba verseny</h3>
 <p>Nem kell az egész szobának patentül kinéznie, sokszor 2-3 jó fotó és <strong>hangulatos elem</strong> is meggyőzheti a zsűrit arról, hogy egy ilyen szobában bizony érdesmes lakni.</p>
-<p>Ha nem vagy veszprémi ne csüggedj, jövőre országos szinten is meghirdetjük a Legjobb Koliszoba versenyt! Addig is szívesen várjuk a képeket a Te kollégiumi szobádról az <x-a href="mailto:info@pandaegyetem.hu">info@pandaegyetem.hu</x-a> címre!</p>
+<p>Ha nem vagy veszprémi ne csüggedj, jövőre országos szinten is meghirdetjük a Legjobb Koliszoba versenyt! Addig is szívesen várjuk a képeket a Te kollégiumi szobádról az <x-a href="mailto:{{ config('mail.from.address') }}">{{ config('mail.from.address') }}</x-a> címre!</p>
 <p>Ha pedig véletlenül nem kerültél be koliba, akkor se csüggedj! Mi nyáron így oldottuk meg, és nagyon hangulatos volt!</p>
 <figure id="attachment_314" aria-describedby="caption-attachment-314" class="wp-caption alignright">
     <img loading="lazy" class="size-medium wp-image-314" src="{{ asset('images/cikkek/194943_4067516487502_1871819868_o.jpg') }}" alt="Nyári kollégiumi szállás: Teleki Hacienda, még Facebook oldala is volt!" width="768" height="511">
