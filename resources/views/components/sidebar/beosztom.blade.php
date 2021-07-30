@@ -4,7 +4,7 @@
         <img src="{{ asset('images/beosztom.png') }}" alt="Beosztom.hu alkalmazás segíti a hatékony spórolást" class="my-4 mx-auto" width="411" height="862" />
     </a>
     <p class="prose lg:prose-lg">Fizesd vissza a diákhitelt, gyűjts jogsira, jusson pénz kajára, kolira... mindezt úgy, hogy mellette még bulira is maradjon? Igen! Csináltunk egy alkalmazást ami segíthet:</p>
-    <a href="https://beosztom.hu/tanuld-meg-beosztani-a-penzed-diakkent" target="_blank" class="bg-green-700 text-white text-xl p-4 text-center my-2 rounded-md bg-green-800" rel="noopener">
+    <a href="{{ route('beosztom.diak') }}" target="_blank" class="bg-green-700 text-white text-xl p-4 text-center my-2 rounded-md bg-green-800" rel="noopener">
         Beosztom.hu
     </a>
 </div>

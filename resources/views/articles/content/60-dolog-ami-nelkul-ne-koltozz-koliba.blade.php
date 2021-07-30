@@ -90,4 +90,5 @@
     <label><input type="checkbox" class="mr-2">Kispárna</label></p>
 <p>A teljes listát letöltheted <x-a href="{{ asset('files/60-dolog-ami-nelkul-ne-koltozz-be-koliba.pdf') }}">pdf formátumban</x-a>, kinyomtathatod, és ha valami hiányzik, ezt mindig nézheted, szét is tépheted.</p>
 <p>Természetesen nem kell mindent elhozni, sőt! Két másik cikket is készítettünk, egyikben azokat a dolgokat foglaltuk össze, <x-a href="{{ route('articles.public_show', 'kollegiumi-bekoltozes-mit-ne-felejts-otthon') }}">amik nélkül kollégistaként nem lehet túlélni</x-a>, a másikban pedig azokat, <x-a href="{{ route('articles.public_show', 'dolgok-amiket-ne-hozz-magaddal-kollegiumba') }}">amiket semmiképpen ne hozz magaddal</x-a>, ha nem akarsz egy csomó mindent hazacipelni első hét végén.</p>
+
 <p>Képek: <x-a href="https://www.umo.edu/sites/default/files/IMG_2515-web.jpg" class="fancybox image">mosolygós lány</x-a>, <x-a href="http://img3.cache.netease.com/photo/0096/2013-08-23/96VU7Q0952LM0096.jpg" class="fancybox image">kínai ember sok cuccal</x-a></p>
