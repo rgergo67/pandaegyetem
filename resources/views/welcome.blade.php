@@ -88,7 +88,7 @@
                                     <p>Készítettünk továbbá egy alkalmazást, amivel egyszerűen oszthatod be a meglevő pénzed:</p>
 
                                 </div>
-                                <a href="https://beosztom.hu/tanuld-meg-beosztani-a-penzed-diakkent" class="btn bg-green-700 mt-8 text-xl">Beosztom.hu</a>
+                                <a href="{{ route('beosztom.diak') }}" class="btn bg-green-700 mt-8 text-xl">Beosztom.hu</a>
                             </div>
                         </div>
                         <div class="flex flex-1">

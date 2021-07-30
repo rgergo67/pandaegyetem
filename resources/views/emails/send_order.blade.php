@@ -3,7 +3,13 @@
 
 Kedves {{ $order->billing_name }}!
 
-Köszönöm a rendelésed, mellékelve küldöm a könyvet, illetve hamarosan a számlát egy külön e-mailben.
+Köszönöm a rendelésed, hamarosan küldöm a számlát egy külön e-mailben. A könyvet a következő linken tudod letölteni:
+
+@component('mail::button', ['url' => 'https://drive.google.com/file/d/1w6COiSTFBDliDFvxKNJzxRR0iWmEFjq-/view?usp=sharing'])
+    Könyv letöltése
+@endcomponent
+
+Ez egy tömörített ZIP fájl, ami tartalmazza a könyvet és az ajándék Jelvény tervezőt illetve Kérdőív játékosítót. Ha esetleg nem tudod letölteni vagy kitömöríteni, írj egy e-mailt erről a címről, és elküldöm külön. (A jelvény tervező kicsit lassan nyílik meg, mert nagy felbontású, ahhoz kis türelem kell)
 
 Nagyon sokat dolgoztam rajta, remélem hasznos lesz, és nem bánod meg, hogy megvetted.
 

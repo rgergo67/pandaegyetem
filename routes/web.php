@@ -29,6 +29,9 @@ Route::get('payment/thankyou', [PaymentController::class, 'thankyou'])->name('pa
 Route::post('payment/callback', [PaymentController::class, 'callback'])->name('payment.callback');
 Route::post('payment/store', [PaymentController::class, 'store'])->name('payment.store');
 
+Route::domain('beosztom.hu')->group(function () {
+    Route::get('legyen-tobb-penzed-mint-a-szuleidnek')->name('beosztom.diak');
+});
 
 Route::get('/adnap', [AuthenticatedSessionController::class, 'create'])
     ->middleware('guest')
