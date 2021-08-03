@@ -13,7 +13,7 @@
                         <a href="{{ route('categories.penz') }}" class="font-medium text-gray-500 hover:text-gray-900 h-16 inline-flex items-center px-4">Pénz</a>
                         <a href="{{ route('categories.kollegium') }}" class="font-medium text-gray-500 hover:text-gray-900 h-16 inline-flex items-center px-4">Kollégium</a>
                         <a href="{{ route('jobb-jegyek') }}" class="text-yellow-700 hover:bg-yellow-50 h-16 inline-flex items-center px-4">Jobb jegyek</a>
-                        <a href="https://beosztom.hu/tanuld-meg-beosztani-a-penzed-diakkent" class="text-green-700 hover:bg-green-50 h-16 inline-flex items-center px-4">Spórolás</a>
+                        <a href="{{ route('beosztom.diak') }}" class="text-green-700 hover:bg-green-50 h-16 inline-flex items-center px-4">Spórolás</a>
                     </div>
                 </div>
             </div>

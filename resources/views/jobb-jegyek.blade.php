@@ -44,7 +44,7 @@
 
                 <h2>Drága?</h2>
                 <p>Bár egy néhány oldalas lapozgatós gyerek könyv is hasonló áron van, az 1.990 Ft akár drágának is tűnhet, hisz ez nem egy kézzel fogható könyv, "csak" egy digitális e-book. Egyszer megírtuk, onnantól minden tiszta haszon, nem igaz? Sajnos nem, egy vállalkozás kell ahhoz, hogy ezeket el tudjuk adni, aminek az éves költsége ~400.000 Ft. Akkor is ennyit kell fizetnünk, ha egy könyvet sem adunk el.</p>
-                <p>No, de nem panaszkodni akarunk, hanem adni még valamit: készítettünk egy olyan oldalt, ami segít a pénzed beosztásában, a hitelek törlesztésében és a céljaid elérésében. Az oldalt a <x-a href="https://beosztom.hu/tanuld-meg-beosztani-a-penzed-diakkent" target="_blank" rel="noopener">beosztom.hu</x-a> címen találod. Fél évig tudod használni, és ha úgy gondolod, hogy nem volt hasznos, nem kell fizetned érte semmit.</p>
+                <p>No, de nem panaszkodni akarunk, hanem adni még valamit: készítettünk egy olyan oldalt, ami segít a pénzed beosztásában, a hitelek törlesztésében és a céljaid elérésében. Az oldalt a <x-a href="{{ route('beosztom.diak') }}" target="_blank" rel="noopener">beosztom.hu</x-a> címen találod. Fél évig tudod használni, és ha úgy gondolod, hogy nem volt hasznos, nem kell fizetned érte semmit.</p>
 
                 <h2>Ajándék</h2>
                 <p>Van még 2 ajándék, ami talán hasznodra lehet!</p>

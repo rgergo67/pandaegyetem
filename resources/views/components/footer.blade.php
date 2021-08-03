@@ -19,7 +19,7 @@
                     <li><a href="{{ route('categories.tanulas') }}" class="hover:text-primary py-2 block">Tanulás</a></li>
                     <li><a href="{{ route('categories.penz') }}" class="hover:text-primary py-2 block">Pénz</a></li>
                     <li><a href="{{ route('categories.kollegium') }}" class="hover:text-primary py-2 block">Kollégium</a></li>
-                    <li><a href="https://beosztom.hu" class="hover:text-primary py-2 block">Spórolás: Beosztom.hu</a></li>
+                    <li><a href="{{ route('beosztom.diak') }}" class="hover:text-primary py-2 block">Spórolás: Beosztom.hu</a></li>
                 </ul>
             </div>
 

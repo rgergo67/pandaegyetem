@@ -66,7 +66,7 @@
 
     <p>Bankkártyás fizetés választása esetén átirányítjuk a Barion fizetőoldalára, így a fizetést nem a weboldalon, hanem közvetlenül a Barion által üzemeltetett, a nemzetközi kártyatársaságok szabályai és biztonsági előírásai szerint működő oldalon történik.</p>
 
-    <p><a href="https://beosztom.hu/barion/">A Barionról további részletek itt.</a></p>
+    <p><a href="/barion">A Barionról további részletek itt.</a></p>
     <h2>IV. Elállás, felelősség</h2>
     <h3>Elállás:</h3>
     <p>Elektronikus termék esetén az elállás nem lehetséges.</p>

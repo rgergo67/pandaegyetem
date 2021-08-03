@@ -60,7 +60,7 @@
 </ul>
 <h2>Hogyan tovább?</h2>
 <ol>
-    <li><x-a href="https://beosztom.hu/tanuld-meg-beosztani-a-penzed-diakkent">Oszd be a pénzed előre!</x-a></li>
+    <li><x-a href="{{ route('beosztom.diak') }}">Oszd be a pénzed előre!</x-a></li>
     <li><strong>Ha van</strong> <x-a href="{{ route('articles.public_show', 'diakhitel-igenyles-torlesztes-tapasztalatok') }}">diákhiteled</x-a> vagy bármilyen más <strong>tartozásod</strong>, először azokat <strong>fizesd vissza</strong>, mivel jóval többet kamatoznak, mint amennyi profitot eleinte termelni tudnál másfajta befektetésekkel.</li>
     <li><strong>Olvass utána alaposan</strong>. Ne fektess csak azért valamibe, mert egy cikkben azt olvastad, hogy megéri.</li>
     <li><strong>Kezdj bele ma.</strong></li>

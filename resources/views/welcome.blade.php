@@ -88,7 +88,7 @@
                                     <p>Készítettünk továbbá egy alkalmazást, amivel egyszerűen oszthatod be a meglevő pénzed:</p>
 
                                 </div>
-                                <a href="{{ route('beosztom.diak') }}" class="btn bg-green-700 mt-8 text-xl">Beosztom.hu</a>
+                                <a href="{{ route('beosztom.diak') }}?utm_source=website&utm_medium=button&utm_campaign=beosztom&utm_id=beosztom&utm_term=beosztom&utm_content=welcome_section" class="btn bg-green-700 mt-8 text-xl">Beosztom.hu</a>
                             </div>
                         </div>
                         <div class="flex flex-1">
@@ -194,7 +194,7 @@
                                         <p class="ml-16 text-lg leading-6 font-medium text-gray-900">1.990 Ft nem sok?</p>
                                     </dt>
                                     <dd class="mt-2 ml-16 text-base text-gray-500">
-                                        Ha nem engedheted meg magadnak, tegyél egy próbát a <x-a href="https://beosztom.hu" target="_blank" rel="noopener">beosztom.hu</x-a> alkalmazásunkkal, amit fél évig ingyen tudsz használni, hátha segít megspórolni a könyv árát.
+                                        Ha nem engedheted meg magadnak, tegyél egy próbát a <x-a href="{{ route('beosztom.diak') }}" target="_blank" rel="noopener">beosztom.hu</x-a> alkalmazásunkkal, amit fél évig ingyen tudsz használni, hátha segít megspórolni a könyv árát.
                                     </dd>
                                 </div>
                             </dl>
@@ -266,7 +266,7 @@
                         </div>
 
                         <div class="text-center mt-10">
-                            <div class="text-gray-800 text-lg">Ha a spórolás érdekel, <x-a target="_blank" href="https://beosztom.hu" class="group" rel="noopener">nézd meg beosztom.hu oldalunkat<svg width="1em" height="1em" viewBox="0 0 18 18" class="inline-block ml-1 -mt-0.5 transition-transform transform group-hover:translate-x-1" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                            <div class="text-gray-800 text-lg">Ha a spórolás érdekel, <x-a target="_blank" href="{{ route('beosztom.diak') }}" class="group" rel="noopener">nézd meg beosztom.hu oldalunkat<svg width="1em" height="1em" viewBox="0 0 18 18" class="inline-block ml-1 -mt-0.5 transition-transform transform group-hover:translate-x-1" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
                                         <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8z"></path>
                                     </svg></x-a></div>
                         </div>
