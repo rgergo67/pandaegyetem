@@ -22,10 +22,6 @@ class SendOrder extends Mailable implements ShouldQueue
     {
         return $this->markdown('emails.send_order')
             ->subject('Jobb jegyek 10 lépésben')
-            ->bcc('rgergo67@gmail.com', 'Ratting Gergely')
-            ->attach(storage_path('app/jobb_jegyek_10_lepesben.pdf'), [
-                'as' => 'jobb_jegyek_10_lepesben.pdf',
-                'mime' => 'application/pdf',
-            ]);
+            ->bcc('rgergo67@gmail.com', 'Ratting Gergely');
     }
 }
