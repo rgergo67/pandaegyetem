@@ -74,7 +74,7 @@
                 </label>
             </div>
             <button class="bg-green-500 mt-2 w-full justify-center btn" id="purchase_button">1.990 Ft Fizetése bankkártyával</button>
-            <p class="italic">Sikeres fizetés esetén a könyvet automatikusan elküldjük neked e-mailben. Amennyiben valami probléma merülne fel, a {{ config('mail.from.address') }} címen tudsz segítséget kérni.</p>
+            <p class="italic">Sikeres fizetés esetén a könyvet automatikusan elküldjük neked e-mailben. Amennyiben valami probléma merülne fel, a {{ config('mail.reply_to.address') }} címen tudsz segítséget kérni.</p>
             <div class="flex justify-center">
                 <img src="{{ asset('images/barion.png') }}" />
             </div>

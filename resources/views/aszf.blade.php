@@ -160,7 +160,7 @@
         esetben az oldal látogatóinak álláspontját tükrözik. Mindazonáltal Szolgáltató jogosult a közízlést,
         Szolgáltató üzleti érdekeit vagy törvényt sértő vélemények, kijelentések – saját mérlegelése alapján
         történő – törlésére.
-        Megrendelő a megrendelésével kapcsolatosan az {{ config('mail.from.address') }} elérhetőségen kérhet tájékoztatást, illetve
+        Megrendelő a megrendelésével kapcsolatosan az {{ config('mail.reply_to.address') }} elérhetőségen kérhet tájékoztatást, illetve
         jelentheti be panaszát az ügyfélszolgálat munkatársainál munkanapokon 10:00-17:00 között.
         A Szolgáltatóval szemben felmerülő vitás ügyek (fogyasztói jogvita) egyszerű, gyors, bíróságon kívüli
         rendezése céljából békéltető testület eljárását kezdeményezheti.
