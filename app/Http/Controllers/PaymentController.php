@@ -92,8 +92,12 @@ class PaymentController extends Controller
                     'payment' => $payment
                 ]);
             } else {
-                Mail::to($payment->order->email)
-                    ->queue(new SendOrder($payment->order));
+                if (! $payment->order->email_sent) {
+                    $payment->order->email_sent = true;
+                    $payment->order->save();
+                    Mail::to($payment->order->email)
+                        ->queue(new SendOrder($payment->order));
+                }
                 return view('payment.thankyou', [
                     'payment' => $payment
                 ]);

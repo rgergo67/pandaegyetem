@@ -15,6 +15,7 @@ Nagyon sokat dolgoztam rajta, remélem hasznos lesz, és nem bánod meg, hogy me
 
 **Számlázási adataid:**<br>
 {{ $order->billing_name }}<br>
+{{ $order->email }}<br>
 {{ $order->billing_city }}<br>
 {{ $order->billing_address }}<br>
 {{ $order->billing_zip }}<br>
