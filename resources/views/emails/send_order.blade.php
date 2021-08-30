@@ -22,6 +22,7 @@ Nagyon sokat dolgoztam rajta, remélem hasznos lesz, és nem bánod meg, hogy me
 @if (!is_null($order->billing_tax_number))
 {{ $order->billing_tax_number }}<br>
 @endif
+Fizetett összeg: {{ config('pandaegyetem.price') }} Ft
 
 Pandasztikus napot!<br>
 Gergő
