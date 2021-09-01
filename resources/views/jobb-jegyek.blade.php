@@ -39,11 +39,11 @@
                 </ol>
                 <p>Ezen kívül még 3 további fejezet vár rád. A könyv PDF formátumú, szinte az összes gépen és telefonon el tudod olvasni.</p>
                 <p>Saját példáinkon keresztül mutatjuk meg, hogyan használtuk az egyes technikákat, és segítünk abban, hogy te is elsajátíthasd őket.</p>
-                <p>Az ára <span class="line-through">1.990 Ft</span> helyett beiskolázási akcióban most <strong>csak 990 Ft</strong>, a lenti gombra kattintva tudod megadni a számlázási adatokat és megrendelni.</p>
+                <p>Az ára 1.990 Ft, a lenti gombra kattintva tudod megadni a számlázási adatokat és megrendelni.</p>
                 <p><a class="btn bg-green-700" href="{{ route('payment.index') }}" id="second-order-button">Tovább a megrendeléshez</a></p>
 
                 <h2>Drága?</h2>
-                <p>Bár egy néhány oldalas lapozgatós gyerek könyv is hasonló áron van, az 1.990 Ft akár drágának is tűnhet <em>(most akciósan csak 990 Ft)</em>, hisz ez nem egy kézzel fogható könyv, "csak" egy digitális e-book. Egyszer megírtuk, onnantól minden tiszta haszon, nem igaz? Sajnos nem, egy vállalkozás kell ahhoz, hogy ezeket el tudjuk adni, aminek az éves költsége ~400.000 Ft. Akkor is ennyit kell fizetnünk, ha egy könyvet sem adunk el.</p>
+                <p>Bár egy néhány oldalas lapozgatós gyerek könyv is hasonló áron van, az 1.990 Ft akár drágának is tűnhet, hisz ez nem egy kézzel fogható könyv, "csak" egy digitális e-book. Egyszer megírtuk, onnantól minden tiszta haszon, nem igaz? Sajnos nem, egy vállalkozás kell ahhoz, hogy ezeket el tudjuk adni, aminek az éves költsége ~400.000 Ft. Akkor is ennyit kell fizetnünk, ha egy könyvet sem adunk el.</p>
                 <p>No, de nem panaszkodni akarunk, hanem adni még valamit: készítettünk egy olyan oldalt, ami segít a pénzed beosztásában, a hitelek törlesztésében és a céljaid elérésében. Az oldalt a <x-a href="{{ route('beosztom.diak') }}" target="_blank" rel="noopener">beosztom.hu</x-a> címen találod. Fél évig tudod használni, és ha úgy gondolod, hogy nem volt hasznos, nem kell fizetned érte semmit.</p>
 
                 <h2>Ajándék</h2>
