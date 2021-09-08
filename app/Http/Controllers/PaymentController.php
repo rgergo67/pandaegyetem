@@ -87,11 +87,7 @@ class PaymentController extends Controller
         if (! empty($request->input('paymentId'))) {
             $payment = $this->processResponse($request->input('paymentId'));
 
-            if ($payment->status == 'Canceled') {
-                return view('payment.failed', [
-                    'payment' => $payment
-                ]);
-            } else {
+            if ($payment->status == 'Succeeded') {
                 if (! $payment->order->email_sent) {
                     $payment->order->email_sent = true;
                     $payment->order->save();
@@ -99,6 +95,10 @@ class PaymentController extends Controller
                         ->queue(new SendOrder($payment->order));
                 }
                 return view('payment.thankyou', [
+                    'payment' => $payment
+                ]);
+            } else {
+                return view('payment.failed', [
                     'payment' => $payment
                 ]);
             }
