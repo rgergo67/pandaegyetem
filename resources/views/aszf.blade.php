@@ -3,14 +3,14 @@
 
     <h1>ÁSZF</h1>
     <h2>I. A Szolgáltató</h2>
-    <p>Weboldal: www.pandaegyetem.hu (a továbbiakban: „honlap”)</p>
+    <p>Weboldal: https://pandaegyetem.hu (a továbbiakban: „honlap”)</p>
     <p><strong>Üzemeltető:</strong></p>
     <ul>
-        <li><b>Vállalkozás neve:</b> Ratting Gergely egyéni vállalkozó (KATA alanyi adó mentes)</li>
-        <li><b>Székhely:</b> 7712 Dunaszekcső, Rév utca 25</li>
+        <li><b>Vállalkozás neve:</b> Blaskó Brigitta egyéni vállalkozó (alanyi adó mentes)</li>
+        <li><b>Székhely:</b> 7700 Mohács, Lovász utca 20</li>
         <li><b>Postai cím:</b> 7700 Mohács, Lovász utca 20</li>
-        <li><b>Adószám:</b> 67973130-1-22</li>
-        <li><b>Bankszámlaszám:</b> 11773487-00981044</li>
+        <li><b>Adószám:</b> 59328896-1-22</li>
+        <li><b>Bankszámlaszám:</b> 11773425-00839741</li>
         <li><b>Kibocsájtó cégbíróság:</b> Pécsi Törvényszék Cégbírósága</li>
     </ul>
     <h2>II. A szolgáltatás igénybe vevője, az igénybevétel feltételei</h2>
@@ -58,7 +58,6 @@
     <p>A Szolgáltató minden tőle telhetőt megtesz annak érdekében, hogy a megrendelt terméket a
         megrendelésben rögzített határidőn belül leszállítsa. Amennyiben a megrendelt termék nem áll
         rendelkezésre, a Szolgáltató erről haladéktalanul tájékoztatást küld a Megrendelő részére.</p>
-
 
     <h4>Barion fizetés (bankkártyával)</h4>
 
@@ -116,14 +115,13 @@
 
     <h3>Adatkezelés</h3>
 
-    <p>A weboldal üzemeltetője – továbbiakban Üzemeltető – tiszteletben tartja az oldalt felkereső személyek – továbbiakban Felhasználó – személyes adatokhoz fűződő jogait. Jelen nyilatkozat információt nyújt, hogy Üzemeltető milyen adatokat tart nyilván, miként használja fel, továbbá az adattovábbításról és a Felhasználó által kért adatmódosítás és adattörlés lehetőségéről ad tájékoztatást. Az adatfelvétel, felhasználás és továbbítás a jogszabályi rendelkezéseknek megfelelően történik. A beosztom.hu oldal látogatásának és használatának feltétele, hogy a látogató előzetesen elolvassa és elfogadja jelen Adatvédelmi Nyilatkozat teljes tartalmát.</p>
+    <p>A weboldal üzemeltetője – továbbiakban Üzemeltető – tiszteletben tartja az oldalt felkereső személyek – továbbiakban Felhasználó – személyes adatokhoz fűződő jogait. Jelen nyilatkozat információt nyújt, hogy Üzemeltető milyen adatokat tart nyilván, miként használja fel, továbbá az adattovábbításról és a Felhasználó által kért adatmódosítás és adattörlés lehetőségéről ad tájékoztatást. Az adatfelvétel, felhasználás és továbbítás a jogszabályi rendelkezéseknek megfelelően történik. A weboldal oldal látogatásának és használatának feltétele, hogy a látogató előzetesen elolvassa és elfogadja jelen Adatvédelmi Nyilatkozat teljes tartalmát.</p>
 
     <p>Tárhelyszolgáltató:</p>
     <ul>
-        <li>Digital Ocean</li>
-        <li>101 Avenue of the Americas, 10th Floor</li>
-        <li>New York, NY 10013</li>
-        <li>Web: www.digitalocean.com</li>
+        <li>Tárhely.Eu Szolgáltató Kft.</li>
+        <li>1538 Budapest, Pf.: 510.</li>
+        <li>Web: https://tarhely.eu/</li>
     </ul>
 
     <h4>Adatok felvétele, felhasználása és továbbítása</h4>
@@ -166,6 +164,6 @@
         rendezése céljából békéltető testület eljárását kezdeményezheti.
         A Szolgáltató bármikor jogosult jelen ÁSZF-t egyoldalúan módosítani, amely módosítás a honlapon
         történő megjelenéssel egyidejűleg lép hatályba.
-        Hatályos: 2017. július 10. napjától visszavonásig és/vagy módosításig.</p>
+        Hatályos: 2022. augusztus 10. napjától visszavonásig és/vagy módosításig.</p>
 
 </x-prose-layout>

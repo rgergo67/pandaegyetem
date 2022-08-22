@@ -28,6 +28,6 @@
     <p>A Barion szervereit a Norton/Symantec/Verisign 256 bites SSL titkosítása védi. Fizetés előtt mindig ellenőrizd, hogy valóban a Barion biztonságos szerverén adod meg a fizetéshez szükséges bankkártya adatokat vagy jelszót. A böngésződ zöld színnel jelzi, ha a fizetés biztonságos, és a fizetőoldal tulajdonosát Barion Payment Inc [HU] néven azonosítja.<br>
         A Barion rendelkezik a bankkártya társaságok által megkövetelt PCI DSS tanúsítvánnyal, így jogosult bankkártya adatokat kezelni. A Barion szerverek biztonságát a Magyar Nemzeti Bank előírása szerint alakították ki.</p>
     <p><strong>TOVÁBBI INFORMÁCIÓ ÉS INGYENES REGISZTRÁCIÓ A BARION OLDALÁN</strong></p>
-    <p><a href="www.barion.hu" target="_blank" rel="noopener noreferrer">www.barion.com</a></p>
+    <p><a href="https://www.barion.hu" target="_blank" rel="noopener noreferrer">www.barion.com</a></p>
 
 </x-prose-layout>
