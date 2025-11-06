@@ -50,8 +50,6 @@
     </ul>
     <p>A termék megrendelését követően a Megrendelő e-mailben visszaigazolást kap a megrendelés adatairól.</p>
     <p>A termék megvásárlásról szóló ÁFÁ-s számlát Megrendelő elektronikusan vagy a termék mellé csomagolva kapja kézhez. Az árak forintban értendők, az Áfát tartalmazzák.</p>
-        <p>A rendeléseket a Szolgáltató a következő 2 munkanapon belül dolgozza fel, így
-        általában a rendeléstől számított 2-3 munkanapon belül kerül a termék a Megrendelő részére leszállításra.</p>
         <p> A Szolgáltató a tőle telhető legnagyobb gondossággal kezeli a honlapon szereplő információkat, azonban azokban változás, elírás
         mindezek ellenére előfordulhat. Az adatbázisban szereplő esetleges hibákért, elírásokért a Szolgáltató
         felelősséget nem vállal.</p>
