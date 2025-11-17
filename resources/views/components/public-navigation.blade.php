@@ -4,7 +4,7 @@
         <div class="flex justify-between h-16">
             <div class="flex col-span-1 w-full">
                 <!-- Logo -->
-                <div class="flex-shrink-0 flex items-center w-full justify-between">
+                <div class="shrink-0 flex items-center w-full justify-between">
                     <a href="{{ route('home') }}">
                         <img src="{{ asset('images/panda-egyetem-mobile-logo.png') }}" class="block h-10 w-auto fill-current text-gray-600" width="230px" height="41px" alt="Panda Egyetem logó" />
                     </a>
